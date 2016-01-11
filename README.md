@@ -6,6 +6,7 @@ Overview
  
 This module implements the Center for Internet Security (CIS) Security Configuration Benchmark for:
 - Amazon Linux 2014.09
+- Ubuntu Trusty Tahr 14.04
 - Red Hat Enterprise Linux 6 v.1.4.0 
 - Red Hat Enterprise Linux 7 v.1.1.0
 
